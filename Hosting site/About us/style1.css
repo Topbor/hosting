@@ -1,0 +1,53 @@
+.about{
+	background: #373030;
+	color:white;
+}
+.container div p{
+	margin:0;
+}
+.page1x div{
+width:50%;
+}
+.sccc{
+	background:#5F9DF2;	
+}
+fieldset{
+	border:1px solid grey;
+}
+legend{
+	width:20px;
+}
+.qwerty{
+	display: flex;
+	justify-content: space-between;
+	width:50%;
+}
+.bb{
+	width:50%;
+	background:#5F9DF2;	
+}
+.bht{
+	background:orange;
+	width:80%;
+}
+ul{
+	margin-left:-10%;
+}
+
+.worker{
+	background:#5F9DF2;	
+	width:100%;
+	height:100px;
+}
+.fob div{
+	padding:3px;
+}
+.t1:hover{
+	color: blue;
+}
+.t2:hover{
+	color: red;
+}
+.t3:hover{
+	color: green;
+}
