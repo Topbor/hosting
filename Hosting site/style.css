@@ -31,6 +31,7 @@ header div p{
 }
 header div p:last-child{
 	border:none;
+	border-image:none;
 }
 .bordervert{
 	width:5px;
